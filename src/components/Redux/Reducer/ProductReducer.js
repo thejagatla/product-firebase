@@ -1,10 +1,4 @@
-import {
-  CREATE_PRODUCT,
-  RETRIEVE_PPRODUCTS,
-  // UPDATE_TUTORIAL,
-  // DELETE_TUTORIAL,
-  // DELETE_ALL_TUTORIALS,
-} from "../Actions/Actiontypes";
+import { CREATE_PRODUCT, RETRIEVE_PPRODUCTS } from "../Actions/Actiontypes";
 
 const initialState = [];
 
