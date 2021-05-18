@@ -100,7 +100,6 @@ const ProductGrid = () => {
   const cancelSearch = () => {
     setsearched("");
     requestSearch(searched);
-    window.location.reload();
   };
 
   const countAmount = () => {

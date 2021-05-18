@@ -259,7 +259,7 @@ const Productview = (props) => {
                 />
               </FormControl>
             </Grid>
-            {errors && <strong className="error">{errors.billedamount}</strong>}
+
             {/** Fourth Line grid */}
             <Grid item xs={6} sm={4}>
               <TextField
